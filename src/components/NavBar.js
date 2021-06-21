@@ -10,23 +10,23 @@ function NavBar(){
                         LucianoSainz
                     </NavLink>
                     
-                    <ul>
-                        <li>
+                    <ul className='nav-menu'>
+                        <li className="nav-item">
                         <NavLink exct to="/" className='nav-links'>
                             Home
                         </NavLink>
                         </li>
-                        <li>
+                        <li className="nav-item">
                         <NavLink exct to="/about" className='nav-links'>
                             About
                         </NavLink>
                         </li>
-                        <li>
+                        <li className="nav-item">
                         <NavLink exct to="/portfolio" className='nav-links'>
                             Portfolio
                         </NavLink>
                         </li>
-                        <li>
+                        <li className="nav-item">
                         <NavLink exct to="/contact" className='nav-links'>
                             Contact
                         </NavLink>
