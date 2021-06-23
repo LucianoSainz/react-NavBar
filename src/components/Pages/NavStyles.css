@@ -1,0 +1,24 @@
+.navbar {
+    background: #000;
+    width:100%;
+    height:120px;
+}
+
+.nav-logo{
+    display: flex;
+    justify-content: center;
+    line-height: 70px;
+    padding-left: 15px;
+    font-family: Big Shoulders Stencil Display, cursive; 
+    font-size: 45px;
+    text-decoration: none;
+}
+
+.nav-menu{
+display: flex;
+justify-content:space-around;
+padding:10px;
+list-style: none;
+text-decoration: none;
+
+}
