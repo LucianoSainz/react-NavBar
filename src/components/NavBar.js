@@ -8,7 +8,7 @@ function NavBar(){
             <nav className='navbar'>
                 <div className="nav-content">
                     <NavLink exct to="/" className='nav-logo'>
-                        LucianoSainz
+                        Web<font>Dev</font>
                     </NavLink>
                     
                     <ul className='nav-menu'>
